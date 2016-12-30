@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hello Humans!
+
+Justice Royale here, I love PHP, Java, and JavaScript.
